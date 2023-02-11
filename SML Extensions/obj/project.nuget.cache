@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vVEk5Z749rf6mcYWMoTIfi6YDKuu4s7pDxvG9/0SwZqniPsKEkncNap2hruQ39a75gF8cy+rGytKyppnkXvi6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Downloads\\newCodeSWM\\SVM\\SML Extensions\\SML Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.reflection.metadataloadcontext\\7.0.0\\system.reflection.metadataloadcontext.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.27\\microsoft.windows.sdk.net.ref.10.0.17763.27.nupkg.sha512"
+  ],
+  "logs": []
+}

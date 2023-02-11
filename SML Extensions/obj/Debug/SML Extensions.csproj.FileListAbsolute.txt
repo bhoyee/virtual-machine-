@@ -1,0 +1,19 @@
+C:\Users\user\Downloads\newCodeSWM\SVM\bin\Debug\SVM.deps.json
+C:\Users\user\Downloads\newCodeSWM\SVM\bin\Debug\SVM.runtimeconfig.json
+C:\Users\user\Downloads\newCodeSWM\SVM\bin\Debug\Sample.sml
+C:\Users\user\Downloads\newCodeSWM\SVM\bin\Debug\SVM.exe
+C:\Users\user\Downloads\newCodeSWM\SVM\bin\Debug\SML Extensions.deps.json
+C:\Users\user\Downloads\newCodeSWM\SVM\bin\Debug\SML Extensions.dll
+C:\Users\user\Downloads\newCodeSWM\SVM\bin\Debug\SML Extensions.pdb
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\SML.Extensions.ImageViewer.resources
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.GenerateResource.cache
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\SML Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\SML Extensions.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\SML Extensions.AssemblyInfo.cs
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.CopyComplete
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\SML Extensions.dll
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\refint\SML Extensions.dll
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\SML Extensions.pdb
+C:\Users\user\Downloads\newCodeSWM\SVM\SML Extensions\obj\Debug\ref\SML Extensions.dll

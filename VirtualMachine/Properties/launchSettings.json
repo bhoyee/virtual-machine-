@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SVM": {
+      "commandName": "Project",
+      "commandLineArgs": "Sample.sml"
+    }
+  }
+}

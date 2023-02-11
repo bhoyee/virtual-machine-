@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows10.0.17763.0</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>SML.Extensions</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\bin\Debug\</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+    <SignAssembly>True</SignAssembly>
+    <OutputType>Library</OutputType>
+    <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
+    <BaseOutputPath>..\bin\</BaseOutputPath>
+    <LangVersion>preview</LangVersion>
+    <AssemblyOriginatorKeyFile>$(SolutionDir)SMLExtensions.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>..\bin\Release</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VirtualMachine\SVM.csproj" />
+  </ItemGroup>
+
+</Project>

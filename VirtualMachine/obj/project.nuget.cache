@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6m5v6SoahPi6gOAWypPbI81JTGwmR13cJH9J788ljK8heUAshuPIh2ujfKEdtIc8xRdDRbwR9PdeFhS9KrUZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Downloads\\newCodeSWM\\SVM\\VirtualMachine\\SVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.reflection.metadataloadcontext\\7.0.0\\system.reflection.metadataloadcontext.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
